@@ -39,7 +39,7 @@ import librosa.display
 import numpy as np
 import random
 import matplotlib.pyplot as plt
-from SpecAugment.SpecAugment.sparse_image_warp_pytorch import sparse_image_warp
+from SpecAugment.sparse_image_warp_pytorch import sparse_image_warp
 import torch
 
 
